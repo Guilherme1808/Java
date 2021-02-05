@@ -2,7 +2,7 @@ package labs;
 
 import java.util.Scanner;
 
-public class ex33 {
+public class Ex33 {
 
     public static void main(String[] args) {
 

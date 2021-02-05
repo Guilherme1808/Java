@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import jdk.internal.vm.compiler.word.Pointer;
 
-public class ex13 {
+public class Ex13 {
 
     public static void main(String[] args) {
 
